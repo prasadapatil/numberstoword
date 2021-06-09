@@ -44,7 +44,7 @@ char* whatisit(int choice,int rnd)
          case 6 : if(choice==1)
                     return("NEEL");
                  else   
-                    return("SEXTRILLION");           
+                    return("SIXATRILLION");           
                  break;
          case 7 : if(choice==1)
                     return("PADMA");
